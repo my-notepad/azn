@@ -1,0 +1,9 @@
+@font-face{
+font-family: aznfontbase64;
+src: url(data:font/opentype;charset=utf-8;base64,T1RUTwAJAIAAAwAQQ0ZGIISKTHkAAA$
+}
+.aznsymbol {
+font-family: aznfontbase64, 'Comic Sans MS', cursive;
+font-size:60pt;
+}
+
